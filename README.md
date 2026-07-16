@@ -52,7 +52,7 @@ This project was engineered by a collaborative two-person team combining data sc
 * **Üveys Kanza** — *Frontend Architecture & Database Design*
   * Developed the Streamlit interface (`app.py`), interactive Plotly visualizations, and the bilingual UX/UI layout.
   * Implemented SQLite database CRUD operations (`database.py`) ensuring seamless data persistence and integrity.
-  * [GitHub Profile](https://github.com/[Teammate-Username])
+  * [GitHub Profile](https://github.com/uveys-kanza)
 
 ---
 
