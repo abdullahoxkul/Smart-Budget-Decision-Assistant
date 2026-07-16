@@ -44,12 +44,12 @@ Identifies hidden spending spikes within specific sub-categories even when total
 
 This project was engineered by a collaborative two-person team combining data science and full-stack interface design:
 
-* **Abdullah Zahid Özkul** — *Data Science & Statistical Architecture*
+* *Abdullah Zahid Özkul* — *Data Science & Statistical Architecture*
   * Designed the core statistical analysis engine (`analysis.py`) and Scikit-Learn regression forecasting models.
   * Formulated the 4-layer rule-based AI budget coach and category anomaly detection algorithms.
   * [GitHub Profile](https://github.com/abdullahoxkul)
 
-* **Üveys Kanza** — *Frontend Architecture & Database Design*
+* *Üveys Kanza* — *Frontend Architecture & Database Design*
   * Developed the Streamlit interface (`app.py`), interactive Plotly visualizations, and the bilingual UX/UI layout.
   * Implemented SQLite database CRUD operations (`database.py`) ensuring seamless data persistence and integrity.
   * [GitHub Profile](https://github.com/uveys-kanza)
